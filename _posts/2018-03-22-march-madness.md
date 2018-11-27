@@ -19,6 +19,3 @@ The features used in this investigation belonged to several different categories
 * Team performance: e.g., home/away wins, wins in close games, longest win streak, scoring differential, etc.
 * In-game statistics: e.g., free-throw percentage, three-point field goal percentage, average three-point field goal attempts, average rebounding difference, etc.
 * Ranking information: e.g., RPI, tournament seeding, Whitlock, Pomeroy, Sagarin, etc.
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
