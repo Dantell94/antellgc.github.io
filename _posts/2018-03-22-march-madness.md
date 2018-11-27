@@ -18,9 +18,9 @@ This year, the tournament once again lived up to its “March Madness” moniker
 In nearly all data analysis projects, data acquisition and wrangling constitute the greatest challenge and time demand. Fortunately, a well-structured data set of NCAA basketball games  – extending back to the 1985 season – has been compiled by Kaggle and Kenneth Massey. While this data was not in a format that could be considered “Machine Learning-ready” it did provide substantial raw material to engineer features. Our approach was to represent each team as a list of these engineered features, such that each past basketball game could be represented by the combination of two lists (one for each team), and an objective field consisting of the result of the game from the perspective of the first team listed. Because so many of our features relied on data that was only collected going back to the 2003 season, we limited our final data set to 118 total features acquired from the most recent 15 seasons.
 
 The features used in this investigation belonged to several different categories:
-* Team performance: e.g., home/away wins, wins in close games, longest win streak, scoring differential, etc.
-* In-game statistics: e.g., free-throw percentage, three-point field goal percentage, average three-point field goal attempts, average rebounding difference, etc.
-* Ranking information: e.g., RPI, tournament seeding, Whitlock, Pomeroy, Sagarin, etc.
+* **Team performance:** e.g., home/away wins, wins in close games, longest win streak, scoring differential, etc.
+* **In-game statistics:** e.g., free-throw percentage, three-point field goal percentage, average three-point field goal attempts, average rebounding difference, etc.
+* **Ranking information:** e.g., RPI, tournament seeding, Whitlock, Pomeroy, Sagarin, etc.
 
 ### Model Training and Evaluation
 
