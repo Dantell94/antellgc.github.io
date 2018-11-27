@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-# March Madness Tournament Predictions
+## March Madness Tournament Predictions
 
 An attempt to forecast the champion of the 2018 NCAA basketball tournament using machine learning. This entry was originally published on the [BigML blog](https://blog.bigml.com/2018/03/22/finding-sense-in-march-madness-with-machine-learning/). 
 
