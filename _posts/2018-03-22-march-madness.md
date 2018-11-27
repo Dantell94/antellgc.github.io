@@ -9,6 +9,8 @@ If you are one of the approximately 54 million Americans that filled out a brack
 
 Not familiar with how the NCAA basketball tournament works? Now is a good time to pause and check out this guide.
 
+![]({{site.baseurl}}/https://littleml.files.wordpress.com/2018/03/basketball.jpg?w=497)
+
 This year, the tournament once again lived up to its “March Madness” moniker with a number of heavy favorites losing in the first two rounds of the tournament. The chaos was headlined by an unprecedented upset of #1 overall seed Virginia in the first round by long shot UMBC, and also claimed #1 Xavier, #2 North Carolina, and #2 Cincinnati as victims. With so many brackets officially busted, we decided to investigate how a Machine Learning approach would perform on predicting the remainder of the tournament.
 
 ### Data Collection and Feature Engineering
